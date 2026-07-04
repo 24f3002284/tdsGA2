@@ -1,6 +1,6 @@
 EMAIL = "24f3002284@ds.study.iitm.ac.in"
 
-Q1_ALLOWED_ORIGIN = "https://dash-211218.example.com"
+Q1_ALLOWED_ORIGIN = "https://dash-2ll2l8.example.com"
 
 ISSUER = "https://idp.exam.local"          
 AUDIENCE = "tds-knw48r8b.apps.exam.local"       
