@@ -4,7 +4,7 @@ Q1_ALLOWED_ORIGIN = "https://dash-2ll2l8.example.com"
 
 ISSUER = "https://idp.exam.local"          
 AUDIENCE = "tds-knw48r8b.apps.exam.local"       
-PUBLIC_KEY_PEM = PUBLIC_KEY_PEM = """-----BEGIN PUBLIC KEY-----
+PUBLIC_KEY_PEM = """-----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2okOHspNjgA+2rTLbeuY
 cxiP/hG8C6Sb9iwg3yiLAA4HCnpITcbWCSe1bvbYGuc3EbNy4xFyf5Cbj5DHJMID
 EkryOgyd2giIIIBOUBj8S63uGcnRpOBh9NFatfNwheKuzsPuVNldu6A9cNteNpXc
